@@ -1,3 +1,5 @@
+import "./style.css";
+
 export function fizzbuzz(n) {
   const res = [];
   for (let i = 1; i <= n; i++) {
